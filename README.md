@@ -734,7 +734,7 @@ This project is released under the **MIT License** - free for educational and co
 ```
 Flutter Quiz Master - Interactive Learning Application
 Educational Flutter Project demonstrating advanced mobile app development concepts
-GitHub: [Your Repository URL]
+GitHub: https://github.com/Quiix24/interactive-quiz-flutter
 ```
 
 ---
